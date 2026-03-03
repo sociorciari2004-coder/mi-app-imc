@@ -1,0 +1,1 @@
+esta aplicacion esta hecha para llevar un control minucioso sobre tu estado de salud, evitando excesos de ingesta y asi poder controlar tu peso, el proceso es sencillo, ingresa los datos requeridos y la app calcula tu Indice de Masa Corporal; a partir de ahi junto con el acompañamiento de profesionales llevara a cabo un control sobre tu peso.
